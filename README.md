@@ -1,5 +1,5 @@
 # Code-Alpha-internship
-1. task1: Stock Price Predictions.
+# 1. task1: Stock Price Predictions.
 I Build an AI model that can predict Stock Price by using historical stock market datasets, volatility indices, and fundamental indicators to forecast prices over the coming months.
 
 # 2.  task2: Breast Cancer Prediction.
